@@ -3,6 +3,7 @@
 #### Esse projeto tem o propósito de fazer o downlaod dos dados do site [Kaggle](https://www.kaggle.com/datasets). 
 
 <br>
+
 ## Execução
 
    * [1. Iniciar](#1-iniciar)
@@ -26,6 +27,7 @@
 ```
 git init
 ```
+
 ```
 git clone https://github.com/marcojnr/API-Kaggle-Download-Data.git
 ```
