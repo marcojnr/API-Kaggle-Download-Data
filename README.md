@@ -42,29 +42,37 @@ venv\Script\activate
 ```
 
 <br>
+
 ### 4. Bibliotecas fundamentais
 ##### Para preparar o ambiente, instale os pacotes necessários.
+
 ```
 pip install -r requirements.txt
 ```
 
 <br>
+
 ### 5. URL do dataset
 ##### Altere a url da base de dados que queira fazer o download.
 ![texto alternativo](printURL.png)
 
 <br>
+
 ### 6. Procedimento para executar
 ##### Execute o arquivo com o seguinte comando:
+
 ```
 python -m script
 ``` 
+
 ##### Pronto! Agora toda base que tiver na url inserida se encontrará no mesmo diretório do projeto no formato de csv.
 
 <br>
+
 <a href="#topo">Voltar ao inicio</a>
 
 <br>
+
 ##### Para qualquer dúvida entre em contato:
 
  <div>
