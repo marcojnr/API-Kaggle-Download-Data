@@ -1,33 +1,26 @@
 # **API Kaggle - Download dados** 
-<a id="topo"></a>
 
 #### Esse projeto tem o propósito de fazer o downlaod dos dados do site [Kaggle](https://www.kaggle.com/datasets). 
 
 <br>
 ## Execução
-   - <a href="#iniciar">1. Iniciar</a>
-   - <a href="#clonar">2. Clonar Projeto</a>
-   - <a href="#criar">3. Criar ambiente</a>
-   - <a href="#bibliotecas">4. Bibliotecas fundamentais</a>
-   - <a href="#url">5. URL do dataset</a>
-   - <a href="#procedimento">6. Procedimento para executar</a>
 
-   <!-- * [1. Iniciar](#1-iniciar)
+   * [1. Iniciar](#1-iniciar)
    * [2. Clonar Projeto](#clonar-projeto)
    * [3. Criar ambiente](#3-criar-ambiente)
    * [4. Bibliotecas fundamentais](#4-bibliotecas)
    * [5. URL do dataset](#5-url)
-   * [6. Procedimento para executar](#6-procedimento) -->
+   * [6. Procedimento para executar](#6-procedimento)
   
 <br>
 
-<h3 id="iniciar">1. Iniciar</h2>
+### 1. Iniciar
 ##### Para iniciar o desenvolvimento, abra o seu prompt de comando(cmd) em um diretorio de sua preferência.
 ![texto alternativo](printCMD.png)
 
 <br>
 
-<h3 id="clonar">2. Clonar Projeto</h2>
+### 2. Clonar Projeto
 ##### Clone seu projeto com os seguintes comandos abaixo:
  
 ```
@@ -38,7 +31,7 @@ git clone https://github.com/marcojnr/API-Kaggle-Download-Data.git
 ```
 <br>
 
-<h3 id="criar">3. Criar ambiente </h2>
+### 3. Criar ambiente
 ##### Criar e ativar um ambiente virtual do projeto no diretório iniciado para aplicação python.
 
 ```
@@ -49,19 +42,19 @@ venv\Script\activate
 ```
 
 <br>
-<h3 id="bibliotecas">4. Bibliotecas fundamentais</h2>
+### 4. Bibliotecas fundamentais
 ##### Para preparar o ambiente, instale os pacotes necessários.
 ```
 pip install -r requirements.txt
 ```
 
 <br>
-<h3 id="url">5. URL do dataset</h2>
+### 5. URL do dataset
 ##### Altere a url da base de dados que queira fazer o download.
 ![texto alternativo](printURL.png)
 
 <br>
-<h3 id="procedimento">6. Procedimento para executar</h2>
+### 6. Procedimento para executar
 ##### Execute o arquivo com o seguinte comando:
 ```
 python -m script
