@@ -1,7 +1,7 @@
 # **API Kaggle - Download dados** 
 
 #### Esse projeto tem o propósito de fazer o downlaod dos dados do site [Kaggle](https://www.kaggle.com/datasets). 
-
+#### Além do dashboard interativo feito no power bi
 <br>
 
 ## Execução
@@ -12,6 +12,7 @@
    * [4. Bibliotecas fundamentais](#4-bibliotecas)
    * [5. URL do dataset](#5-url)
    * [6. Procedimento para executar](#6-procedimento)
+   * [7. Dashboard](#6-Dashboard)
   
 <br>
 
@@ -69,11 +70,8 @@ python -m script
 
 ##### Pronto! Agora toda base que tiver na url inserida se encontrará no mesmo diretório do projeto no formato de csv.
 
-<br>
-
-<a href="#topo">Voltar ao inicio</a>
-
-<br>
+### 7. Dashboard
+##### https://app.powerbi.com/view?r=eyJrIjoiZWFkZjk5NTgtZTNhNC00OTJhLWE3ZGYtZTAzMGQ4ZTBmMDdkIiwidCI6IjMxZmIxYTk3LThjNjMtNDg3YS1hYzY2LTM3M2VhYmQzMzQ2MyJ9
 
 ##### Para qualquer dúvida entre em contato:
 
